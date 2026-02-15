@@ -1,0 +1,7 @@
+{
+  "name": "QuickMenu SaaS",
+  "description": "A lightweight SaaS for creating temporary, mobile-first digital menus for restaurants and cafés. Features AI-powered menu generation and instant QR-ready links.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
